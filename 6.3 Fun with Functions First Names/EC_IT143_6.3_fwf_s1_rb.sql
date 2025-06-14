@@ -1,0 +1,1 @@
+-- Question: How can I extract the first name from CustomerName?

@@ -1,0 +1,1 @@
+-- I believe I can use CHARINDEX and LEFT to extract the first name before the space.
