@@ -1,0 +1,1 @@
+-- Next question: How can I extract the country from the customer record?

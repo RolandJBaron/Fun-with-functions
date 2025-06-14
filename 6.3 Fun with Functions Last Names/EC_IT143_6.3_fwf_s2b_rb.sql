@@ -1,0 +1,1 @@
+-- I believe I can use RIGHT and LEN with CHARINDEX to extract the last name after the space.
