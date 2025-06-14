@@ -1,0 +1,3 @@
+-- Question: How can I track WHO last modified a record?
+-- I already started tracking it using SUSER_SNAME(). 
+-- Is this method secure and accurate across different login contexts?

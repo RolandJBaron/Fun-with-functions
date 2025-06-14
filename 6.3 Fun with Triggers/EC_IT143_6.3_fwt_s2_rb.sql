@@ -1,0 +1,2 @@
+-- I think I can track updates by using a trigger.
+-- The trigger would fire after an update and insert the current date and user into audit fields.
